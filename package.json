@@ -1,0 +1,8 @@
+{
+  "name": "kz-task-deploy",
+  "version": "1.0.0",
+  "description": "task deploy for kz",
+  "main": "index.js",
+  "author": "weixinchen",
+  "private": true
+}
