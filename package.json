@@ -1,10 +1,9 @@
 {
   "name": "kz-task-deploy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "task deploy for kz",
   "main": "index.js",
   "author": "weixinchen",
-  "private": true,
   "dependencies": {
     "node-native-zip": "^1.1.0",
     "request": "^2.71.0"
